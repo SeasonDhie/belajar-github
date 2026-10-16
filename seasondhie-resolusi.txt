@@ -2,5 +2,5 @@ SEASONDHIE RESOLUSI
 REPOSITORY UNTUK MENYIMPAN RENCANA WPU 1 TAHUN KEDEPAN
 -konsisten untuk belajar coding 1x 1hari
 -membuat beberapa project coding sederhana
--membuat forum diskusi
 -kedepanya mengerti cara menggunakan github & GIT
+-membuat aplikasi di github
