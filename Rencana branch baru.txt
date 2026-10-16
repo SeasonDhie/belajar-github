@@ -1,0 +1,3 @@
+RENCANA MEMBUAT BRANCH BARU DI REPO SEASONDHIE
+-membuat jalur coding baru dari branch utama
+-ketika sudah jadi akan coba merge
